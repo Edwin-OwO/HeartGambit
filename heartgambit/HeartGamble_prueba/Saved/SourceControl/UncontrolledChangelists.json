@@ -16,7 +16,15 @@
 				"C:/Users/pc/Documents/Unreal Projects/HeartGamble_prueba/Content/TopDown/Blueprints/dice_w.uasset",
 				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/dice_w.uasset",
-				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/dice.uasset"
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/dice.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/BP_interface.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/BP_ControllerGambit.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/input/AI_Movement.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/input/IMC_Player.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/githubfacu/HeartGambit/heartgambit/HeartGamble_prueba/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
