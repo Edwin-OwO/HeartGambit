@@ -1,0 +1,29 @@
+{ "frames": {
+   "Plantilla cartas nuevo.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 100, "h": 150 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 150 },
+    "sourceSize": { "w": 100, "h": 150 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "Plantilla cartas tier 1.png",
+  "format": "RGBA8888",
+  "size": { "w": 100, "h": 150 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Pantalla", "opacity": 255, "blendMode": "normal" },
+   { "name": "Prueba color", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 13, "blendMode": "normal" },
+   { "name": "Sketch Copy", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
