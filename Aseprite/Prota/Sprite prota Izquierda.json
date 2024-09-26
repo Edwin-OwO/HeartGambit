@@ -1,5 +1,5 @@
 { "frames": {
-   "Sprite prota Derecha 0.aseprite": {
+   "Sprite prota Izquierda 0.aseprite": {
     "frame": { "x": 0, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -7,7 +7,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 1.aseprite": {
+   "Sprite prota Izquierda 1.aseprite": {
     "frame": { "x": 25, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -15,7 +15,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 2.aseprite": {
+   "Sprite prota Izquierda 2.aseprite": {
     "frame": { "x": 50, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -23,7 +23,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 3.aseprite": {
+   "Sprite prota Izquierda 3.aseprite": {
     "frame": { "x": 75, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -31,7 +31,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 4.aseprite": {
+   "Sprite prota Izquierda 4.aseprite": {
     "frame": { "x": 100, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -39,7 +39,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 5.aseprite": {
+   "Sprite prota Izquierda 5.aseprite": {
     "frame": { "x": 125, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -47,7 +47,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 6.aseprite": {
+   "Sprite prota Izquierda 6.aseprite": {
     "frame": { "x": 150, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -55,7 +55,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 7.aseprite": {
+   "Sprite prota Izquierda 7.aseprite": {
     "frame": { "x": 175, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -63,7 +63,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 8.aseprite": {
+   "Sprite prota Izquierda 8.aseprite": {
     "frame": { "x": 200, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -71,7 +71,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 9.aseprite": {
+   "Sprite prota Izquierda 9.aseprite": {
     "frame": { "x": 225, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -79,7 +79,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 10.aseprite": {
+   "Sprite prota Izquierda 10.aseprite": {
     "frame": { "x": 250, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -87,7 +87,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 11.aseprite": {
+   "Sprite prota Izquierda 11.aseprite": {
     "frame": { "x": 275, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -95,7 +95,7 @@
     "sourceSize": { "w": 25, "h": 25 },
     "duration": 100
    },
-   "Sprite prota Derecha 12.aseprite": {
+   "Sprite prota Izquierda 12.aseprite": {
     "frame": { "x": 300, "y": 0, "w": 25, "h": 25 },
     "rotated": false,
     "trimmed": false,
@@ -107,7 +107,7 @@
  "meta": {
   "app": "https://www.aseprite.org/",
   "version": "1.2.32-x64",
-  "image": "Sprite prota Derecha.png",
+  "image": "Sprite prota Izquierda.png",
   "format": "RGBA8888",
   "size": { "w": 325, "h": 25 },
   "scale": "1",
