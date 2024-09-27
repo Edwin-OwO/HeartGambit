@@ -1,0 +1,124 @@
+{ "frames": {
+   "Sprite prota Derecha 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 1.aseprite": {
+    "frame": { "x": 25, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 2.aseprite": {
+    "frame": { "x": 50, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 3.aseprite": {
+    "frame": { "x": 75, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 4.aseprite": {
+    "frame": { "x": 100, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 5.aseprite": {
+    "frame": { "x": 125, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 6.aseprite": {
+    "frame": { "x": 150, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 7.aseprite": {
+    "frame": { "x": 175, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 8.aseprite": {
+    "frame": { "x": 200, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 9.aseprite": {
+    "frame": { "x": 225, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 10.aseprite": {
+    "frame": { "x": 250, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 11.aseprite": {
+    "frame": { "x": 275, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 12.aseprite": {
+    "frame": { "x": 300, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "Sprite prota Derecha.png",
+  "format": "RGBA8888",
+  "size": { "w": 325, "h": 25 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "Walk", "from": 4, "to": 11, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Pj", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
