@@ -1,5 +1,5 @@
 { "frames": {
-   "Sprite prota espalda 4k walk 0.aseprite": {
+   "Sprite prota Derecha 4k walk 0.aseprite": {
     "frame": { "x": 0, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -7,7 +7,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 1.aseprite": {
+   "Sprite prota Derecha 4k walk 1.aseprite": {
     "frame": { "x": 100, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -15,7 +15,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 2.aseprite": {
+   "Sprite prota Derecha 4k walk 2.aseprite": {
     "frame": { "x": 200, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -23,7 +23,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 3.aseprite": {
+   "Sprite prota Derecha 4k walk 3.aseprite": {
     "frame": { "x": 300, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -31,7 +31,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 4.aseprite": {
+   "Sprite prota Derecha 4k walk 4.aseprite": {
     "frame": { "x": 400, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -39,7 +39,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 5.aseprite": {
+   "Sprite prota Derecha 4k walk 5.aseprite": {
     "frame": { "x": 500, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -47,7 +47,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 6.aseprite": {
+   "Sprite prota Derecha 4k walk 6.aseprite": {
     "frame": { "x": 600, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -55,8 +55,16 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota espalda 4k walk 7.aseprite": {
+   "Sprite prota Derecha 4k walk 7.aseprite": {
     "frame": { "x": 700, "y": 0, "w": 100, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 100 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "Sprite prota Derecha 4k walk 8.aseprite": {
+    "frame": { "x": 800, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 100 },
@@ -67,9 +75,9 @@
  "meta": {
   "app": "https://www.aseprite.org/",
   "version": "1.2.32-x64",
-  "image": "Sprite prota espalda walk 4k.png",
+  "image": "Sprite prota Derecha 4k walk.png",
   "format": "RGBA8888",
-  "size": { "w": 800, "h": 100 },
+  "size": { "w": 900, "h": 100 },
   "scale": "1",
   "frameTags": [
    { "name": "Walk", "from": 0, "to": 7, "direction": "forward" }

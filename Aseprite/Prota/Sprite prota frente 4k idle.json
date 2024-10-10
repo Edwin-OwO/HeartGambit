@@ -1,5 +1,5 @@
 { "frames": {
-   "Sprite prota Izquierda 4k idle 0.aseprite": {
+   "Sprite prota frente 4k idle 0.aseprite": {
     "frame": { "x": 0, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -7,7 +7,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota Izquierda 4k idle 1.aseprite": {
+   "Sprite prota frente 4k idle 1.aseprite": {
     "frame": { "x": 100, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -15,7 +15,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota Izquierda 4k idle 2.aseprite": {
+   "Sprite prota frente 4k idle 2.aseprite": {
     "frame": { "x": 200, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -23,7 +23,7 @@
     "sourceSize": { "w": 100, "h": 100 },
     "duration": 100
    },
-   "Sprite prota Izquierda 4k idle 3.aseprite": {
+   "Sprite prota frente 4k idle 3.aseprite": {
     "frame": { "x": 300, "y": 0, "w": 100, "h": 100 },
     "rotated": false,
     "trimmed": false,
@@ -35,7 +35,7 @@
  "meta": {
   "app": "https://www.aseprite.org/",
   "version": "1.2.32-x64",
-  "image": "Sprite prota Izquierda idle 4k.png",
+  "image": "Sprite prota frente 4k idle.png",
   "format": "RGBA8888",
   "size": { "w": 400, "h": 100 },
   "scale": "1",
